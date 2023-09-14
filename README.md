@@ -5,5 +5,6 @@
 系級：科技系二年級    
 ## 課程筆記區  
 ## 作業連結區
-[hw1](file:///D:/Wei-Han/Desktop/bootstrap-5.3.1-examples/jumbotron/index.html)
+[GitHub]:https://github.com/liangweihan/liangweihan/blob/main/index.html
+[hw1][GitHub]
 ## 專題連結區 
