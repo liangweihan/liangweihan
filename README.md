@@ -5,6 +5,6 @@
 系級：科技系二年級    
 ## 課程筆記區  
 ## 作業連結區
-[GitHub]:https://github.com/liangweihan/liangweihan/blob/main/index.html
+[GitHub]:file:///D:/Wei-Han/Documents/GitHub/myweb/index.html
 [hw1][GitHub]
 ## 專題連結區 
